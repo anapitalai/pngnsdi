@@ -1,13 +1,13 @@
-# MyST Website Template
+# National Spatial Data Infrastructure-Papua New Guinea University Of Technology
 
-A reusable template for building websites with [MyST Markdown](https://mystmd.org/) and automated deployment via GitHub Actions.
+This is an initiative of the School of Survey and Property Studies backed by the Vice Chancellor Dr Ora Renagi.
 
-## Features
+## Involved Individuals
 
-- **MyST Markdown** source format with Jupyter notebook integration
-- **GitHub Pages** deployment on push to `main`
-- **Netlify PR previews** for pull request review
-- **Pre-commit hooks**: Black, codespell, nbstripout for code quality
+- Mr Lewi Kari - Senior Lecturer GIS Section
+- Alois Napitalai - Senior Tech Officer
+- Mr Bill Tomon - ICT Department
+- Junior Lati - ICT Department
 
 ## Quick Start
 
