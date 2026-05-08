@@ -1,8 +1,8 @@
 version: 1
 project:
   title: National Spatial Data Infrastructure
-  # authors:
-  #   - name: Alois Napitalai
+  authors:
+     - name: Alois Napitalai
   copyright: '2026'
   exclude:
     - _build
@@ -16,16 +16,18 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: opengeos/myst-website-template
+  github: anapitalai/pngnsdi
   thebe:
     binder:
-      repo: opengeos/myst-website-template
+      repo: anapitalai/pngnsdi
       provider: github
       url: https://mybinder.org
       ref: main
   bibliography:
     - pages/references.bib
   toc:
+    - file: sly.md
+    - title: NSDI Wbsite
     - file: index.md
     - title: Preface
       children:
@@ -34,7 +36,7 @@ project:
       children:
         - file: pages/part01/getting-started.md
         - file: pages/part01/installation.md
-    - title: Examples
+    - title: Presentations
       children:
         - file: pages/part02/first-example.md
     - file: blog.md
