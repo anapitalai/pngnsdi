@@ -1,8 +1,8 @@
 version: 1
 project:
   title: National Spatial Data Infrastructure
-  authors:
-     - name: Alois Napitalai
+#  authors:
+#    - name: Alois Napitalai
   copyright: '2026'
   exclude:
     - _build
