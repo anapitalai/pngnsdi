@@ -18,8 +18,11 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Installation
-
+# Installation of the Softwares Used in this Project
+  - Kubernetes
+  - Docker
+  - Apache
+  - Minio Object Store
 This chapter covers how to set up your environment.
 
 ## Prerequisites
